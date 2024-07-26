@@ -1,5 +1,12 @@
 <h1 align="center">Boggle</h1>
 
+<div align="center">
+<div align="center">
+
+  <p align="center">
+    My implementation of the [Boggle](https://en.wikipedia.org/wiki/Boggle) game</p>
+</div>
+
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/danielgibor/Boggle-Game?color=orange)
 ![GitHub issues](https://img.shields.io/github/issues/danielgibor/Boggle-Game?color=yellow)
