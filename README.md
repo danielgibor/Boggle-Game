@@ -20,3 +20,7 @@
 <a href="https://github.com/danielgibor/Boggle-Game/issues">Request
 Feature</a>
 </div>
+
+## About the project
+
+
