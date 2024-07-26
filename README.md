@@ -3,39 +3,8 @@
 <div align="center">
 <div align="center">
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boggle Game Implementation</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .centered-content {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="centered-content">
-        <p>
-            My implementation of the 
-            <a href="https://en.wikipedia.org/wiki/Boggle" target="_blank">Boggle game</a>
-        </p>
-    </div>
-</body>
-</html>
-
-
   <p align="center">
-    My implementation of the [Boggle game](https://en.wikipedia.org/wiki/Boggle)</p>
+    <a href="https://en.wikipedia.org/wiki/Boggle" target="_blank">Boggle game</a>
 </div>
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
