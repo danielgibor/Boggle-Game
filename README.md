@@ -43,6 +43,8 @@ The project is implemented as an OOP class in Python, using the tkinter library.
 <img src="https://github.com/danielgibor/Boggle-Game/blob/main/README/boogle_game.gif" alt="Boggle Game GIF">
 </p>
 
+For a full demo video check this [link](https://www.youtube.com/watch?v=XJhGo_YWLI0).
+
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ## Copyright
