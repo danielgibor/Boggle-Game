@@ -4,7 +4,7 @@
 <div align="center">
 
   <p align="center">
-    My implementation of the [Boggle](https://en.wikipedia.org/wiki/Boggle) game</p>
+    My implementation of the [Boggle game](https://en.wikipedia.org/wiki/Boggle)</p>
 </div>
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
