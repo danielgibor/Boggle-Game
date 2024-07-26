@@ -29,6 +29,8 @@ A valid word is defined as a word that appears in the dictionary and is formed b
 
 Each word earns points equal to the square of the length of the path. Points cannot be earned for the same word more than once, even if it appears multiple times on the board.
 
+The project is implemented as an OOP class in Python, using the tkinter library.
+
 ## Table of context
 
 ## Demo
