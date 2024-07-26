@@ -4,6 +4,7 @@
 <div align="center">
 
   <p align="center">
+    My implementation of
     <a href="https://en.wikipedia.org/wiki/Boggle" target="_blank">Boggle game</a>
 </div>
 
