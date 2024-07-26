@@ -33,6 +33,9 @@ The project is implemented as an OOP class in Python, using the tkinter library.
 
 ## Table of context
 
+- [Demo](#demo)
+- [Copyright](#copyright)
+
 ## Demo
 
 ## Copyright
