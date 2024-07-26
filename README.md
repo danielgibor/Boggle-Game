@@ -38,7 +38,7 @@ The project is implemented as an OOP class in Python, using the tkinter library.
 
 ## Demo
 
-<div align="center">
+
 
 <img src="https://github.com/danielgibor/Boggle-Game/blob/main/README/boogle_game.gif" alt="Boggle Game GIF">
 </p>
