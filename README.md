@@ -1,1 +1,1 @@
-# Boogle-Game
+## About the project:
