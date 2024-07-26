@@ -6,3 +6,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/danielgibor/Boggle-Game?color=yellow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/danielgibor/Boggle-Game)
 ![GitHub](https://img.shields.io/github/license/danielgibor/Boggle-Game)
+
+<a href="https://github.com/danielgibor/Boggle-Game/issues">Report Bug</a>
+·
+<a href="https://github.com/danielgibor/Boggle-Game/issues">Request
+Feature</a>
+</div>
