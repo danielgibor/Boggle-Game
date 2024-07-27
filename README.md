@@ -1,5 +1,7 @@
 <h1 align="center">Boggle</h1>
 
+![Boggle Game](https://github.com/danielgibor/Boggle-Game/blob/main/README/IMG_2013.WEBP)
+
 <div align="center">
 <div align="center">
 
